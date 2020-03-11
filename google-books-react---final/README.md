@@ -1,1 +1,1 @@
-<
+In this assignment you will build an application to assist users to find books using the Google Book API. In order to use the Google Book API you will need an API key. Visit the credentials page after logging in to your Google account.
