@@ -3,7 +3,7 @@
   "version": "0.2.2",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.5",
+    "lodash": "4.17.13",
     "material-ui": "1.0.0-beta.36",
     "material-ui-icons": "1.0.0-beta.36",
     "normalize.css": "8.0.0",
